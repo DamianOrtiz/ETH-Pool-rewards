@@ -14,3 +14,6 @@ A verified contract is deployed on ropsten at https://ropsten.etherscan.io/addre
 # Hardhat task to find the total staked ETH
 
 Run `yarn totalStaked` to find the total staked eth in the contract.
+
+# Tests
+Tests are created, run `yarn test`
