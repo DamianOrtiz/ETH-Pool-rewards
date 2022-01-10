@@ -1,10 +1,6 @@
-# Eth Pool
+# ETH Pool Rewards
 
-> Simple contract to stake eth to a pool and get rewards for staking.
-
-# Assumptions
-
-- Rewards are deposited only once per cycle.
+> Simple contract to stake eth to a pool and get rewards for staking, with the assumption that the rewards are deposited only once per cycle, thus, no need for a timestamp.
 
 # Algorithm
 
