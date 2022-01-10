@@ -4,7 +4,7 @@
 
 # Algorithm
 
-- Users are allocated an rewardDiscount when they stake eth.
+- Users are allocated a rewardDiscount when they stake eth.
 - The rewardDiscount is deducted from their holdings once they unstake.
 
 # Deployment
