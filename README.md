@@ -9,7 +9,7 @@
 
 # Deployment
 
-A verified contract is deployed on ropsten at https://ropsten.etherscan.io/address/0xeac0b446d0e244a0569cb10f9f72b739bcff0cc4
+A verified contract is deployed on ropsten at https://ropsten.etherscan.io/address/0x1f3F126D2FD98DdB9E109801AA618eaADCBd51cE
 
 # Hardhat task to find the total staked ETH
 
