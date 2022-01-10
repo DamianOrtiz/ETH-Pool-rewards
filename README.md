@@ -1,11 +1,14 @@
-# ETH-Pool-rewards
-Eth Pool rewards challenge
+# Eth Pool
 
-> Simple contract to stake ETH to a pool and get rewards for staking, with the asumption that rewards are deposited only once per cycle.
+> Simple contract to stake eth to a pool and get rewards for staking.
+
+# Assumptions
+
+- Rewards are deposited only once per cycle.
 
 # Algorithm
 
-- Users are allocated a rewardDiscount when they stake ETH.
+- Users are allocated an rewardDiscount when they stake eth.
 - The rewardDiscount is deducted from their holdings once they unstake.
 
 # Deployment
