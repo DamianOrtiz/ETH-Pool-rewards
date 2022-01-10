@@ -637,7 +637,7 @@ task("stake", "Deposits the rewards into the contract")
     wallet = wallet.connect(provider);
 
     const rewardsContract = new ethers.Contract(
-      "0x1a49e40ab949535120db98c95AeED68D9584c644",
+      "0x1f3F126D2FD98DdB9E109801AA618eaADCBd51cE",
       abi,
       wallet
     );
